@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  AnimationExample
-//
-//  Created by Аршат Талап on 01.03.2022.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
