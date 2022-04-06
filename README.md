@@ -1,5 +1,7 @@
 # Animation-iOS
 
+iOS(Storyboard) practice with animations, in this project you can see how basic animations were implemented, as well as animation in one controller to another.
+
 ### Screenshots
 
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/102688997/161707514-d7c29598-30b0-48b0-8bed-784f88412189.png">
